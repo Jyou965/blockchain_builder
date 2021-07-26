@@ -39,7 +39,13 @@ Users of this application can adapt the code to build blockchains of their own i
 
 Key outcome of the blockchain functions are demonstrated below:
 
+![chain_details](https://github.com/Jyou965/blockchain_builder/blob/main/screen_shots/chain_details.png)
 
+![validation](https://github.com/Jyou965/blockchain_builder/blob/main/screen_shots/validation.png)
+
+![sidebar_dropdown](https://github.com/Jyou965/blockchain_builder/blob/main/screen_shots/sidebar_dropdown.png)
+
+![block_5](https://github.com/Jyou965/blockchain_builder/blob/main/screen_shots/block_5.png)
 
 ---
 
