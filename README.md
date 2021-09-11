@@ -1,5 +1,4 @@
 # blockchain_builder
-Challenge 18
 
 This application builds a basic blockchain.
 
@@ -52,6 +51,6 @@ Full details of the chain:
 
 ## Contributors
 
-Jackie You with the support of FinTech Boot Camp Staff
+Jackie You
 
 ---
